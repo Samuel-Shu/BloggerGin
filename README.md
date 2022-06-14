@@ -23,3 +23,4 @@ sudo go mod tidy
 ```go
 sudo go run main.go
 ```
+### 路由
