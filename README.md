@@ -10,9 +10,16 @@
 - 使用JWT实现用户的校验
 - 使用Gin框架提供web服务
 ### 项目的部署及使用
-下载并配置项目     `/Config/config.ini`
-下载完整依赖
+`下载并配置项目` 
+
+`/Config/config.ini`
+
+`下载完整依赖`
 ```go
 sudo go mod tidy
 ```
 
+`启动项目`
+```go
+sudo go run main.go
+```
