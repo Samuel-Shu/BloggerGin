@@ -14,7 +14,7 @@
 
 `/Config/config.ini`
 
-`依照`go.mod`下载完整依赖`
+`依照go.mod下载完整依赖`
 ```go
 sudo go mod tidy
 ```
